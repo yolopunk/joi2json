@@ -1,0 +1,32 @@
+{
+  "name": "joi2json",
+  "version": "1.0.0",
+  "description": "Joi ⇄ JSON-Schema Converter",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "standard --fix && tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolopunk/joi2json.git"
+  },
+  "keywords": [
+    "joi",
+    "json-schema"
+  ],
+  "author": "yolopunk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolopunk/joi2json/issues"
+  },
+  "homepage": "https://github.com/yolopunk/joi2json#readme",
+  "devDependencies": {
+    "mocha": "*",
+    "standard": "*",
+    "tape": "^4.8.0"
+  },
+  "dependencies": {
+    "joi": "^13.0.2"
+  }
+}
