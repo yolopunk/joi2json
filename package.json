@@ -1,6 +1,6 @@
 {
   "name": "joi2json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Joi ⇄ JSON-Schema Converter",
   "main": "index.js",
   "scripts": {
