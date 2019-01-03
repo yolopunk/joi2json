@@ -12,6 +12,7 @@
 [download-url]: https://npmjs.org/package/joi2json
 
 [JSON Schema](https://github.com/json-schema-org/json-schema-spec) and [Joi](https://github.com/hapijs/joi) converter
+Forked from [joi-to-json-schema](https://github.com/lightsofapollo/joi-to-json-schema) and [enjoi](https://github.com/tlivings/enjoi)
 
 ## Install
 ```bash
