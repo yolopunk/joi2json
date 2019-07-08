@@ -1,6 +1,6 @@
 {
   "name": "joi2json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Joi ⇄ JSON-Schema Converter",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "tape": "^4.8.0"
   },
   "dependencies": {
-    "joi": "^13.0.2"
+    "@hapi/hoek": "^8.0.2",
+    "@hapi/joi": "^15.1.0"
   }
 }
