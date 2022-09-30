@@ -27,7 +27,7 @@
     "tape": "^4.8.0"
   },
   "dependencies": {
-    "@hapi/hoek": "^8.0.2",
+    "@hapi/hoek": "^9.0.4",
     "@hapi/joi": "^15.1.0"
   }
 }
